@@ -15,4 +15,4 @@ deploy:
   on:
     branch: master
 notifications:
-    slack: avisosic:GZ8VgHtwAaNbUIccaa69mz0O
+   slack: idsprueba:OExEIh7UQiC6ixd0A7zT35TM

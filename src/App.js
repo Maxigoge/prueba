@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Parcial 3 - IdS - 2021</h1>
+        <h1>Parcial 3 - IdS - 20221</h1>
         <h2>¡Implementando cambios a futuro!</h2>
         <a
           className="App-link"

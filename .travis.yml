@@ -16,5 +16,3 @@ deploy:
     branch: master
 notifications:
   slack: idsprueba:OExEIh7UQiC6ixd0A7zT35TM
-  email:
-    - kraizyn@gmail.com
